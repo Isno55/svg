@@ -1,11 +1,4 @@
-<html> 
-  <style>.responsive {
-  position: relative;
-  max-width:100%;
-  height: auto;
-} </style>
 
-<div class="responsive">
 
 <svg
    viewBox="0 0 70 70"
@@ -1264,4 +1257,3 @@
     </g>
   </g>
 </svg>
-</div>
